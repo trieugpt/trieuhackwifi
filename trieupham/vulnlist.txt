@@ -1051,3 +1051,126 @@ WPS Router Zyxel NBG-418N V2
 WPS Router Zyxel NBG-419N V2
 WPS Router Mercusys MW325R 1.0
 WPS Router Mercusys MR70X 1.0
+TP-Link Archer C20 v1
+TP-Link Archer C20 v4
+TP-Link Archer C20 v5
+TP-Link Archer C50 v1
+TP-Link Archer C50 v3
+TP-Link Archer C50 v4
+TP-Link Archer C50 v5
+TP-Link Archer C50 v6
+TP-Link Archer C2 v1
+TP-Link Archer C2 v3
+TP-Link Archer C5 v4
+TP-Link Archer C6 v2
+TP-Link Archer C6 v3.20
+TP-Link TL-WR740N v4
+TP-Link TL-WR740N v6
+TP-Link TL-WR840N v4
+TP-Link TL-WR840N v5
+TP-Link TL-WR840N v6
+TP-Link TL-WR841N v9
+TP-Link TL-WR841N v10
+TP-Link TL-WR841N v11
+TP-Link TL-WR841N v12
+TP-Link TL-WR841N v13
+TP-Link TL-WR841N v14
+TP-Link TL-WR845N v3
+TP-Link TL-WR845N v4
+TP-Link TL-WR940N v3
+TP-Link TL-WR940N v4
+TP-Link TL-WR940N v5
+TP-Link TL-MR3420 v2
+TP-Link TL-MR3420 v5
+D-Link DIR-600
+D-Link DIR-605L
+D-Link DIR-615
+D-Link DIR-615H1
+D-Link DIR-809
+D-Link DIR-612
+D-Link DIR-850L
+Tenda N301
+Tenda F3
+Tenda AC6
+Tenda AC10
+Tenda AC10U
+Tenda AC1200
+Tenda FH456
+Xiaomi Mi Router 3
+Xiaomi Mi Router 3G
+Xiaomi Mi Router 4A
+Xiaomi Mi Router 4C
+Xiaomi Mi Wi-Fi Mini
+Xiaomi Redmi Router AX5
+Asus RT-N10
+Asus RT-N12
+Asus RT-N12 D1
+Asus RT-N14U
+Asus RT-AC51U
+Asus RT-AC53
+Asus RT-AC1200G+
+Asus RT-AC55U
+Asus RT-AC66U
+Asus RT-AC68U
+Netgear WNDR3400
+Netgear WNR2000
+Netgear R6220
+Netgear R6260
+Netgear R6400
+Netgear R7000
+Netgear WN3000RP
+Huawei HG8045A
+Huawei HG8145V5
+Huawei HG8245A
+Huawei HG8245H
+ZTE ZXHN F600
+ZTE ZXHN F608
+ZTE ZXHN F609
+ZTE ZXHN F660
+ZTE ZXHN F670
+ZTE ZXHN F670L
+ZTE ZXHN H198A
+ZTE ZXHN H298N
+Linksys WRT54G
+Linksys WRT54GL
+Linksys E900
+Linksys E1200
+Linksys EA2700
+Linksys EA6350
+Mercusys MW301R
+Mercusys MW305R
+Mercusys MW325R
+Mercusys MR50G
+Totolink N200RE
+Totolink N300RT
+Totolink N600R
+Totolink A3002RU
+Totolink A720R
+Totolink A830R
+Viettel ZTE F608
+Viettel ZTE F609
+Viettel ZTE F660
+Viettel ZTE F670L
+Viettel Huawei HG8045A
+Viettel Huawei HG8145V5
+Viettel TP-Link TL-WR840N
+Viettel TP-Link TL-WR940N
+FPT IGATE GW040
+FPT Tenda AC6
+FPT Tenda AC10U
+FPT TP-Link Archer C2
+FPT TP-Link Archer C5
+VNPT IGATE GW040H
+VNPT Smartbox 2
+VNPT Smartbox 3
+VNPT ZTE ZXHN F609
+VNPT ZTE ZXHN F660
+Cisco RV130W
+MikroTik HAP AC Lite
+Belkin F9K1102
+Belkin N300
+EDIMAX BR-6428nS V4
+Buffalo WZR-HP-G300NH
+Trendnet TEW-731BR
+Trendnet TEW-652BRP
+
