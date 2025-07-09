@@ -3,7 +3,7 @@ ADSL RT2860
 AIR3G WSC Wireless Access Point AIR3G WSC Device
 AirLive Wireless Gigabit AP AirLive Wireless Gigabit AP
 Archer_A9 1.0
-Archerc20I 1.0
+ArcherC20i 1.0
 Archer A2 5.0
 Archer A5 4.0
 Archer C2 1.0
@@ -19,13 +19,13 @@ Archer C50 3.0
 Archer C50 4.0
 Archer C50 5.0
 Archer C50 6.0
-Archer Mr200 1.0
-Archer Mr200 4.0
-Archer Mr400 4.2
-Archer Mr200 5.0
-Archer Vr300 1.20
-Archer Vr400 3.0
-Archer Vr2100 1.0
+Archer MR200 1.0
+Archer MR200 4.0
+Archer MR400 4.2
+Archer MR200 5.0
+Archer VR300 1.20
+Archer VR400 3.0
+Archer VR2100 1.0
 B-LINK 123456
 Belkin AP EV-2012-09-01
 DAP-1360 DAP-1360
@@ -156,9 +156,197 @@ ZyXEL NBG-416N AP Router NBG-416N
 ZyXEL NBG-418N AP Router
 ZyXEL NBG-418N AP Router NBG-418N
 ZyXEL Wireless AP Router NBG-417N
-TP-Link Archer C20
+Archer C6 v2
+Archer C6 v3.20
+Archer C80 v2_1.3.1
+Archer AX10 1.0
+Archer AX12
+Archer AX20 1.0
+Archer AX50 1.0
+Archer AX53
+Archer AX73 1.0
+Archer AX73 Pro
+Buffalo WHR-G54S
+DIR-300
+DIR-600
+DIR-850L
+DIR-878 A1
+DIR-878 firmware 1.05B03
+DIR-882 A1
+DSL-2750U
+D-Link EXO AX5400 DIR-X5460
+D-Link EXO AX6000 DIR-X6060
+D-Link R15 Eagle Pro AI
+F3
+FH456
+F680
+F680 v2
+F689z
+F7010
+F7015
+FPT Tenda AC6
+FPT Tenda AC10U
+FPT Tenda AC23
+FPT Tenda AC21
+FPT Tenda RX3
+FPT Tenda RX9 Pro
+FPT Tenda N301
+FPT Tenda F3
+FPT ZTE ZXHN F609
+FPT ZTE ZXHN F670
+FPT ZTE ZXHN F680
+FPT ZTE ZXHN F670L
+FPT Huawei HG8045A
+FPT Huawei EG8145V5
+FPT iGate GW040
+FPT iGate GW040H
+FPT iGate GW040X
+FPT Play Box Wi-Fi 6 Router
+FPT S-Connect GW800
+FPT Wi-Fi 6 AX1800
+HG8045A
+HG8045A VNPT
+HG8145V
+HG8245H
+Huawei AX6 Pro
+Huawei BE3 Pro
+Huawei EG8145V5 firmware V500R020C00SPC200
+Huawei EG8247Q
+Huawei HG8145X6
+iGate GW040
+iGate GW040H
+iGate GW040X
+iGate GW800
+iGate GW1000
+Linksys E1200 v2
+Linksys EA6350 v3
+Linksys MR8300
+Linksys WRT3200ACM
+Mercusys Halo H80X
+Mercusys MR90X
+Mi Router 3
+Mi Router 3G
+Mi Router 4A
+Mi Router 4C
+Mi Wi-Fi Mini
+MikroTik RB750Gr3
+MikroTik hAP ac²
+MikroTik hAP ax³
+MW12 2.0
+N301
+Netgear Nighthawk RAXE500
+Netgear Orbi RBK863
+Netgear Orbi RBKE963
+Nighthawk AX8
+Nighthawk XR500
+Orbi RBK863
+P-660HW-T1
+R6220
+R6260
+R6400
+R7000
+R7000 firmware 1.3.3.8
+Redmi AX6000
+Redmi Router AX5
+ROG Rapture GT-AX6000
+RT-AX3000
+RT-AX59U
+RT-AX82U
+RT-AX86U
+RT-AX86U firmware 3.0.0.4.388_24198
+RT-AX88U
+RT-AX88U Pro
+RT-AX89X
+RT-AC66U
+RT-AC68U
+Tenda AC6
+Tenda AC10
+Tenda AC10U
+Tenda AC11U 1.0
+Tenda AC23
+Tenda AC21
+Tenda RX3
+Tenda RX9 Pro
+Tenda RX27 Pro
+Tenda N3
+Tenda MW12 2.0
+TL-MR3420 v2
+TL-WR740N v4
+TL-WR740N v6
+TL-WR841N v9
+TL-WR841N v10
+TL-WR841N v11
+TL-WR841N v12
+TL-WR940N v3
+TL-WR940N v4
+TL-WR940N v5
+VNPT iGate GW040
+VNPT iGate GW040H
+VNPT iGate GW040X
+VNPT iGate GW800
+VNPT iGate GW1000
+VNPT ZTE ZXHN F660
+VNPT ZTE ZXHN F670
+VNPT ZTE ZXHN F680
+VNPT ZTE ZXHN F670L
+VNPT ZTE H198A
+VNPT TOTOLINK N200RE
+VNPT TOTOLINK N300RT
+VNPT TOTOLINK X5000R
+VNPT TP-Link Archer C6
+VNPT TP-Link Archer AX10
+VNPT TP-Link Archer AX20
+VNPT TP-Link Archer C80
+Viettel ZTE ZXHN F600
+Viettel ZTE ZXHN F601
+Viettel ZTE ZXHN F600W
+Viettel ZTE ZXHN F608
+Viettel ZTE ZXHN F609
+Viettel ZTE ZXHN F660
+Viettel ZTE ZXHN F670
+Viettel ZTE ZXHN F670L
+Viettel ZTE F680
+Viettel ZTE F680 v2
+Viettel Huawei HG8045A
+Viettel Huawei HG8145V
+Viettel iGate GW040
+Viettel iGate GW040H
+Viettel iGate GW040X
+Viettel iGate GW800
+Viettel iGate GW1000
+Viettel TP-Link WR840N
+Viettel TP-Link WR940N
+Viettel TP-Link Archer C20
+Viettel TP-Link Archer C6
+Viettel TP-Link Archer AX10
+Viettel TP-Link Archer AX20
+Viettel TP-Link Archer AX53
+Viettel TP-Link Archer AX73
+Xiaomi BE7000
+Router AX9000
+Router AX6000
+Ubiquiti UniFi Dream Router UDR
+Ubiquiti UniFi Express UX
+Ubiquiti UniFi Dream Machine SE
+ZTE ZXHN F600
+ZTE ZXHN F600W
+ZTE ZXHN F601
+ZTE ZXHN F608
+ZTE ZXHN F660
+ZTE H188A
+ZTE H369X
+ZyXEL NBG-416N
+ZyXEL NBG-418N
+ZyXEL VMG3925-B10B
+ZyXEL Armor G5
+TOTOLINK N200RE
+TOTOLINK N300RT
+TOTOLINK N600R
+TOTOLINK X5000R
+TOTOLINK T10
+TOTOLINK A950RG
+TOTOLINK A950RG 2024
 TP-Link Archer C64
-TP-Link Archer C6
 TP-Link Deco M4
 TP-Link Deco X20
 TP-Link Deco X60
@@ -812,7 +1000,6 @@ Vmg8623-t50a Rt2860
 Wap300n Wap300n
 Wap3205 Wap3205
 Wi-fi Protected Setup Router Rt-ac1200g+
-Wi-fi Protected Setup Router Rt-ax55
 Wi-fi Protected Setup Router Rt-n10u
 Wi-fi Protected Setup Router Rt-n12
 Wi-fi Protected Setup Router Rt-n12d1
