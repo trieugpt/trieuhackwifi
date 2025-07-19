@@ -45,7 +45,6 @@ EC220-G5 2.0
 EV-2009-02-06
 Enhanced Wireless Router F6D4230-4 v1
 Home Internet Center KEENETIC series
-Home Internet Center Keenetic series
 Huawei Wireless Access Point RT2860
 JWNR2000v2(Wireless AP) JWNR2000v2
 Keenetic Keenetic series
@@ -432,18 +431,12 @@ TP-Link Wr810n
 TP-Link Archer C58
 TP-Link Archer C2 v5
 TP-Link Archer C60 v2
-Tenda Ac6
-Tenda Ac10
-Tenda Ac10u
-Tenda Ac11u 1.0
-Tenda Ac23
 Tenda Ac7
 Tenda Ac8
 Tenda Ac18
 Tenda Ac19
 Tenda Ac1200
 Tenda Fh456
-Tenda Mw12 2.0
 Tenda N301
 Tenda F3
 Tenda Tx27 Pro
@@ -456,13 +449,7 @@ Tenda Nova Mw3
 Tenda 4g680 V2 (4g Router)
 Tenda 5g06 (5g Router)
 Tenda 4g09 (4g Lte Router)
-Tenda Ac21
-TOTOLINK N200re
-TOTOLINK N600r
-TOTOLINK X5000r
-TOTOLINK A950rg
 TOTOLINK A720r
-TOTOLINK N300rt
 TOTOLINK A810r
 TOTOLINK A830r
 TOTOLINK A3700r
@@ -494,12 +481,10 @@ Xiaomi Mi Router Ax6000 Pro
 Xiaomi Mi Aiot Router Ac2350
 Xiaomi Ax3600
 Xiaomi Mi Wifi Repeater 2
-ZTE ZXHN F600w
 ZTE ZXHN F600w-v2
 ZTE ZXHN F660a
 ZTE ZXHN F660w
 ZTE ZXHN F6609
-ZTE ZXHN F660
 ZTE ZXHN F660v5
 ZTE ZXHN F660rv1
 ZTE ZXHN F660rv2
@@ -691,7 +676,6 @@ ZTE ZXHN F693c
 ZTE Mf283
 ZTE Mf920u
 Huawei Hg8045a
-Huawei Eg8145v5 Firmware V500r020c00spc200
 Huawei Eg8145v5
 Huawei Ax3 Quad-core
 Huawei Ax6
@@ -765,12 +749,6 @@ Asus Rt-ac68u v3
 Asus Rt-ax56u
 Asus Rt-ax55
 Asus Rt-ac66u B1
-D-Link N Router Go-rt-n150
-D-Link Router DIR-605l
-D-Link Router DIR-615h1
-D-Link Router DIR-655
-D-Link Router DIR-809
-D-Link Router Go-rt-n150
 D-Link Dir-x1860 A1
 D-Link DIR-612
 D-Link DIR-850l
@@ -794,12 +772,6 @@ D-Link DIR-300
 D-Link DIR-615
 D-Link DIR-878
 D-Link DIR-882
-Linksys Wireless Access Point Ea7500
-Linksys Wireless Router Wrt110
-Linksys E1200 v2
-Linksys Ea6350 v3
-Linksys Mr8300
-Linksys Wrt3200acm
 Linksys Velop Pro 7
 Linksys Mx6200 Velop Pro 7
 Linksys Mx4050 Velop Pro 6e
@@ -813,10 +785,6 @@ Linksys Velop Mx5300
 Linksys Wrt54gl
 Linksys E900
 Linksys Ea7500
-Netgear Ap Ev-2012-08-04
-Netgear Wireless Access Point Netgear
-Netgear Wireless Access Point R6220
-Netgear Wireless Access Point R6260
 Netgear Nighthawk Ax8
 Netgear Nighthawk Rax50
 Netgear Nighthawk Xr500
@@ -842,9 +810,6 @@ Netgear R8000
 Netgear X6s
 Netgear Nighthawk R7000p
 Netgear Nighthawk X4s
-Netgear Nighthawk Ax12
-Mikrotik Rb750gr3
-Mikrotik Hap Ac²
 Mikrotik Hap Lite Rb941-2nd
 Mikrotik Rb5009ug+s+
 Mikrotik Hex S (rb760igs)
@@ -867,8 +832,6 @@ Ubiquiti Amplifi Alien
 Ubiquiti Nanostation M2
 Ubiquiti Nanostation M5
 Ubiquiti Edgerouter X
-Mercusys Halo H80x
-Mercusys Mr90x
 Mercusys Halo Be12
 Mercusys Mr60x Pro
 Mercusys Halo H90x
@@ -889,149 +852,20 @@ Banana Pi R3
 Nanopi R4s
 Comfast Cf-wr800n
 Openwrt Supported Device
-Viettel TP-Link Archer C20
 Cmc TP-Link Archer C6
-Viettel TP-Link Wr840n
-Viettel TP-Link Wr940n
 Mobifone TP-Link Wr940n
 Sctv TP-Link Wr841n
 Fpt Modem Tenda Ac6
 Fpt Modem Tenda Ac10u
 Viettel Modem Huawei Hg8045a
 Mobifone Huawei Eg8145v5
-Vnpt ZTE ZXHN F670
 Mobifone ZTE ZXHN F670l
-Vnpt Igate Gw040h
-Vnpt Igate Gw040
 Vnpt Vne2040
 Viettel ZTE F670l
-Adsl Router Ev-2006-07-27
-Adsl Rt2860
-Air3g Wsc Wireless Access Point Air3g Wsc Device
-Airlive Wireless Gigabit Ap Airlive Wireless Gigabit Ap
-Archer_A9 1.0
-Archerc20I 1.0
-Archer C6U 1.0.0
-Archer Mr200 1.0
-Archer Mr200 4.0
-Archer Mr400 4.2
-Archer Mr200 5.0
-Archer Vr300 1.20
-Archer Vr400 3.0
-Archer Vr2100 1.0
-B-link 123456
-Belkin Ap Ev-2012-09-01
-Ec120-f5 1.0
-Ec220-g5 2.0
-Ev-2009-02-06
-Enhanced Wireless Router F6d4230-4 v1
-Home Internet Center Keenetic Series
-Jwnr2000v2(wireless Ap) Jwnr2000v2
-Keenetic Keenetic Series
-Nbg-419n Nbg-419n
-N/a Ev-2010-09-20
-Ralink Wireless Access Point Rt2860
-Ralink Wireless Access Point Wr-ac1210
-Rtl8196e
-Rtl8xxx Ev-2009-02-06
-Rtl8xxx Ev-2010-09-20
-Rtl8xxx Rtk_ecos
-Rt-g32 1234
-Sitecom Wireless Router 300n X2 300n
-Smart Router R3 Rt2860
-Timo Ra300r4 Timo Ra300r4
-Td-w8151n Rt2860
-Td-w8901n Rt2860
-Td-w8951nd Rt2860
-Td-w9960 1.0
-Td-w9960 1.20
-Td-w9960v 1.0
-Td-w8968 2.0
-TL-MR100 1.0
-TL-MR3020 3.0
-TL-MR3420 5.0
-TL-MR6400 3.0
-TL-MR6400 4.0
-TL-WA855RE 4.0
-TL-WR840N 4.0
-TL-WR840N 5.0
-TL-WR840N 6.0
-TL-WR841N 13.0
-TL-WR841N 14.0
-TL-WR841HP 5.0
-TL-WR842N 5.0
-TL-WR845N 3.0
-TL-WR845N 4.0
-TL-WR850N 1.0
-TL-WR850N 2.0
-TL-WR850N 3.0
-TL-WR1042N Ev-2010-09-20
-Trendnet Router Tew-625br
-Trendnet Router Tew-651br
-Vn020-f3 1.0
-Vmg3312-t20a Rt2860
-Vmg8623-t50a Rt2860
-Wap300n Wap300n
-Wap3205 Wap3205
-Wi-fi Protected Setup Router Rt-ac1200g+
-Wi-fi Protected Setup Router Rt-n10u
-Wi-fi Protected Setup Router Rt-n12
-Wi-fi Protected Setup Router Rt-n12d1
-Wi-fi Protected Setup Router Rt-n12vp
-Wireless WPS Router <#zvmodelvz#>
-Wireless WPS Router Rt-n10e
-Wireless WPS Router Rt-n10lx
-Wireless WPS Router Rt-n12e
-Wireless WPS Router Rt-n12lx
-Wn3000rp V3
-Wn-200r Wn-200r
-WPS Router (5g) Rt-n65u
-WPS Router Dsl-ac51
-WPS Router Dsl-ac52u
-WPS Router Dsl-ac55u
-WPS Router Dsl-n14u-b1
-WPS Router Dsl-n16
-WPS Router Dsl-n17u
-WPS Router Rt-ac750
-WPS Router Rt-ac1200
-WPS Router Rt-ac1200_v2
-WPS Router Rt-ac1750
-WPS Router Rt-ac750l
-WPS Router Rt-ac1750u
-WPS Router Rt-ac51
-WPS Router Rt-ac51u
-WPS Router Rt-ac52u
-WPS Router Rt-ac52u_b1
-WPS Router Rt-ac53
-WPS Router Rt-ac57u
-WPS Router Rt-ac65p
-WPS Router Rt-ac85p
-WPS Router Rt-n11p
-WPS Router Rt-n12e
-WPS Router Rt-n12e_b1
-WPS Router Rt-n12 Vp
-WPS Router Rt-n12+
-WPS Router Rt-n14u
-WPS Router Rt-n56u
-WPS Router Rt-n56ub1
-WPS Router Rt-n65u
-WPS Router Rt-n300
-Wr5570 2011-05-13
-Zyxel Nbg-416n Ap Router
-Zyxel Nbg-416n Ap Router Nbg-416n
-Zyxel Nbg-418n Ap Router
-Zyxel Nbg-418n Ap Router Nbg-418n
-Zyxel Wireless Ap Router Nbg-417n
-Archer Ax10 1.0
-Archer Ax20 1.0
 Archer Ax3000 1.0
-Archer Ax50 1.0
-Archer Ax73 1.0
 Archer Ax72 1.0
 Archer Ax75 1.0
 Archer Axe75 1.0
-Zyxel Armor G5
-Zyxel Vmg3925-b10b
 Viettel Modem ZTE F608
 Viettel Huawei Hg8145x6
 Viettel ZTE F7010
@@ -1046,7 +880,6 @@ Viettel Smartont An5506-04-f4t
 Viettel Ac1000f
 Viettel Hg8045a
 Viettel Wi-fi Mesh Ac1200
-Viettel Igate Gw040
 Fpt Modem Igate Gw040
 Fpt Modem Igate Rg4100hn
 Fpt Modem Draytek Vigor 2925
@@ -1106,7 +939,6 @@ Zyxel Nwa220ax-6e
 Zyxel Scr 50axe
 Zyxel Nwa130ax
 Zyxel Scr 50ax
-Igate Gw040
 Igate Rg4100hn
 Igate Ew12st
 Alcatel-lucent I-240w-q
@@ -1167,7 +999,6 @@ Archer Ax95 1.0
 Archer Ax11000 2.0
 Archer Ax1500 1.0
 Archer Ax1800 1.0
-Archer Ax3000 1.0
 Archer Mr400 5.0
 Archer Mr600 3.0
 Archer Mr6400 6.0
@@ -1225,7 +1056,6 @@ TP-Link Archer C5 v4
 TP-Link Archer C6 v2
 TP-Link Archer C6 v3.20
 TP-Link TL-WR740N v4
-TP-Link TL-WR740N v6
 TP-Link TL-WR840N v4
 TP-Link TL-WR840N v5
 TP-Link TL-WR840N v6
@@ -1240,26 +1070,13 @@ TP-Link TL-WR845N v4
 TP-Link TL-WR940N v3
 TP-Link TL-WR940N v4
 TP-Link TL-WR940N v5
-TP-Link TL-MR3420 v2
 TP-Link TL-MR3420 v5
 D-Link DIR-600
 D-Link DIR-605L
-D-Link DIR-615
 D-Link DIR-615H1
 D-Link DIR-809
-D-Link DIR-612
-D-Link DIR-850L
-Tenda N301
-Tenda F3
-Tenda AC6
-Tenda AC10
-Tenda AC10U
-Tenda AC1200
-Tenda FH456
 Xiaomi Mi Router 3
-Xiaomi Mi Router 3G
 Xiaomi Mi Router 4A
-Xiaomi Mi Router 4C
 Xiaomi Mi Wi-Fi Mini
 Xiaomi Redmi Router AX5
 Asus RT-N10
@@ -1270,61 +1087,26 @@ Asus RT-AC51U
 Asus RT-AC53
 Asus RT-AC1200G+
 Asus RT-AC55U
-Asus RT-AC66U
-Asus RT-AC68U
 Netgear WNDR3400
 Netgear WNR2000
 Netgear R6220
 Netgear R6260
-Netgear R6400
-Netgear R7000
 Netgear WN3000RP
-Huawei HG8045A
 Huawei HG8145V5
-Huawei HG8245A
 Huawei HG8245H
-ZTE ZXHN F600
-ZTE ZXHN F608
-ZTE ZXHN F609
-ZTE ZXHN F660
-ZTE ZXHN F670
-ZTE ZXHN F670L
-ZTE ZXHN H198A
-ZTE ZXHN H298N
 Linksys WRT54G
-Linksys WRT54GL
-Linksys E900
 Linksys E1200
 Linksys EA2700
 Linksys EA6350
 Mercusys MW301R
 Mercusys MW305R
-Mercusys MW325R
-Mercusys MR50G
-Totolink N200RE
-Totolink N300RT
-Totolink N600R
-Totolink A3002RU
-Totolink A720R
-Totolink A830R
 Viettel ZTE F608
-Viettel ZTE F609
-Viettel ZTE F660
-Viettel ZTE F670L
-Viettel Huawei HG8045A
 Viettel Huawei HG8145V5
 Viettel TP-Link TL-WR840N
 Viettel TP-Link TL-WR940N
-FPT IGATE GW040
-FPT Tenda AC6
-FPT Tenda AC10U
 FPT TP-Link Archer C2
 FPT TP-Link Archer C5
-VNPT IGATE GW040H
-VNPT Smartbox 2
-VNPT Smartbox 3
 VNPT ZTE ZXHN F609
-VNPT ZTE ZXHN F660
 Cisco RV130W
 MikroTik HAP AC Lite
 Belkin F9K1102
@@ -1337,18 +1119,10 @@ Viettel TP-Link TL-WR740N
 Viettel TP-Link TL-WR841N
 Viettel TP-Link TL-WR841HP
 Viettel TP-Link TL-WR941ND
-Viettel TP-Link Archer C20
 Viettel TP-Link Archer C2
 Viettel TP-Link Archer C5
-Viettel TP-Link Archer C6
 Viettel TP-Link Archer C50
 Viettel TP-Link Archer C6U
-Viettel TP-Link Archer AX10
-Viettel TP-Link Archer AX20
-Viettel TP-Link Archer AX53
-Viettel TP-Link Archer AX73
-Viettel TP-Link WR840N
-Viettel TP-Link WR940N
 Viettel TP-Link WR1043ND
 Viettel TP-Link TL-WDR4300
 Viettel Totolink N150RT
@@ -1386,18 +1160,9 @@ Viettel Tenda Nova MW6
 Viettel Tenda Nova MW12
 Viettel Tenda TX12 Pro
 Viettel Tenda TX27 Pro
-Viettel ZTE ZXHN F600
-Viettel ZTE ZXHN F601
-Viettel ZTE ZXHN F608
-Viettel ZTE ZXHN F609
-Viettel ZTE ZXHN F660
-Viettel ZTE ZXHN F670
-Viettel ZTE ZXHN F670L
 Viettel ZTE ZXHN F680
 Viettel ZTE ZXHN F680 V2
-Viettel ZTE F7010
 Viettel ZTE F7015
-Viettel ZTE H198A
 Viettel ZTE H198A Pro
 Viettel ZTE H298N
 Viettel ZTE H298Q
@@ -1417,32 +1182,24 @@ Viettel ZTE F660RV2
 Viettel ZTE F660RV3
 Viettel ZTE F660A
 Viettel ZTE F660W
-Viettel Fiberhome AN5506-04-F1A
-Viettel SmartONT AN5506-04-F4T
-Viettel AC1000F
 Viettel AC1000G
 Viettel Huawei HG8045Q
-Viettel Huawei HG8145X6
 Viettel Huawei HG8245A
 Viettel Huawei HG8245H
 Viettel HN8245X6
 Viettel HN8255WS
 Viettel Play Box Wi-Fi 6 Router
-Viettel Wi-Fi Mesh AC1200
 Viettel Wi-Fi Mesh AX3000
 ViettelNet Wi-Fi 5G
 FPT TP-Link TL-WR740N
 FPT TP-Link TL-WR841N
 FPT TP-Link TL-WR941ND
-FPT TP-Link Archer C2
-FPT TP-Link Archer C5
 FPT TP-Link Archer C6
 FPT TP-Link Archer C20
 FPT TP-Link Archer C50
 FPT TP-Link Archer AX10
 FPT TP-Link Archer AX20
 FPT TP-Link Archer AX53
-FPT TP-Link WR940N
 FPT TP-Link WR841N
 FPT TP-Link TL-WR1043ND
 FPT TP-Link TL-WDR4300
@@ -1451,7 +1208,6 @@ FPT Totolink N150RT
 FPT Totolink N200RE
 FPT Totolink N300RT
 FPT Totolink N350RT
-FPT Totolink N600R
 FPT Totolink X5000R
 FPT Totolink T6 Mesh
 FPT Totolink T8 Mesh
@@ -1463,18 +1219,10 @@ FPT Totolink A830R
 FPT Totolink A950RG
 FPT Totolink A950RG 2024
 FPT Tenda N3
-FPT Tenda N301
-FPT Tenda F3
-FPT Tenda AC6
 FPT Tenda AC10
-FPT Tenda AC10U
 FPT Tenda AC18
 FPT Tenda AC19
-FPT Tenda AC21
-FPT Tenda AC23
 FPT Tenda FH456
-FPT Tenda RX3
-FPT Tenda RX9 Pro
 FPT Tenda MW12 2.0
 FPT Tenda Nova MW3
 FPT Tenda Nova MW6
@@ -1484,11 +1232,7 @@ FPT Tenda TX27 Pro
 FPT ZTE ZXHN F600
 FPT ZTE ZXHN F601
 FPT ZTE ZXHN F608
-FPT ZTE ZXHN F609
 FPT ZTE ZXHN F660
-FPT ZTE ZXHN F670
-FPT ZTE ZXHN F670L
-FPT ZTE ZXHN F680
 FPT ZTE ZXHN F680 V2
 FPT ZTE F7010
 FPT ZTE F7015
@@ -1512,42 +1256,23 @@ FPT ZTE F660RV2
 FPT ZTE F660RV3
 FPT ZTE F660A
 FPT ZTE F660W
-FPT Gpon F680
-FPT Gpon F680R
-FPT G97RG6M
-FPT G97RG6M V2
 FPT Alcatel Lucent I-241W-A
-FPT Nokia G-2425G-A
-FPT iGate GW040
-FPT iGate GW040H
-FPT iGate GW040X
 FPT iGate GW800
 FPT iGate RG4100HN
-FPT Play Box Wi-Fi 6 Router
-FPT S-Connect GW800
-FPT Smart Gateway S9705
 FPT Wi-Fi Hub AC1000
 VNPT TP-Link TL-WR740N
 VNPT TP-Link TL-WR841N
 VNPT TP-Link TL-WR941ND
 VNPT TP-Link Archer C2
-VNPT TP-Link Archer C5
-VNPT TP-Link Archer C6
 VNPT TP-Link Archer C9
 VNPT TP-Link Archer C20
 VNPT TP-Link Archer C50
-VNPT TP-Link Archer C80
-VNPT TP-Link Archer AX10
-VNPT TP-Link Archer AX20
 VNPT TP-Link Archer WR940N
 VNPT TP-Link Archer WR841N
 VNPT TP-Link Archer TL-WR1043ND
 VNPT TP-Link TL-WDR4300
 VNPT Totolink N150RT
-VNPT Totolink N200RE
-VNPT Totolink N300RT
 VNPT Totolink N600R
-VNPT Totolink X5000R
 VNPT Totolink T6 Mesh
 VNPT Totolink T8 Mesh
 VNPT Totolink T10 Mesh
@@ -1576,18 +1301,11 @@ VNPT Tenda Nova MW6
 VNPT Tenda Nova MW12
 VNPT Tenda TX12 Pro
 VNPT Tenda TX27 Pro
-VNPT ZTE ZXHN F600
 VNPT ZTE ZXHN F601
 VNPT ZTE ZXHN F608
-VNPT ZTE ZXHN F609
-VNPT ZTE ZXHN F660
-VNPT ZTE ZXHN F670
-VNPT ZTE ZXHN F670L
-VNPT ZTE ZXHN F680
 VNPT ZTE ZXHN F680 V2
 VNPT ZTE F7010
 VNPT ZTE F7015
-VNPT ZTE H198A
 VNPT ZTE H198A Pro
 VNPT ZTE H298N
 VNPT ZTE H298Q
@@ -1607,17 +1325,183 @@ VNPT ZTE F660RV2
 VNPT ZTE F660RV3
 VNPT ZTE F660A
 VNPT ZTE F660W
-VNPT Fiberhome HG6145D
-VNPT iGate GW020
-VNPT iGate GW040
-VNPT iGate GW040H
-VNPT iGate GW040X
-VNPT iGate GW800
-VNPT iGate GW1000
 VNPT iGate GR140
-VNPT Smartbox 2
-VNPT Smartbox 3
-VNPT VNE1040E
-VNPT VNE2040
 VNPT Wi-Fi 6
 VNPT Wi-Fi Mesh AX3000
+AirLive Wireless Gigabit AP
+DAP-1360
+DIR-842
+JWNR2000v2
+NBG-419N
+Timo RA300R4
+TEW-731BR
+WAP300N
+WAP3205
+Wireless Access Point
+WN-200R
+HG8245Q
+HG8247H
+EG8145V5
+HG8245A
+ZXHN F670L
+ZXHN F680
+ZXHN H198A
+ZXHN F609
+AN5506-04-F
+HG6145D
+I-240W-Q
+G-2425G-A
+Archer C25 v1
+Archer C25 v2
+Archer C59 v1
+Archer C59 v2
+Archer C60 v2
+Archer C60 v3
+Archer A6 v3.2
+Archer A7 v1
+Archer A7 v5
+TL-WR740N v1
+TL-WR840N v1
+TL-WR840N v2
+TL-WR941ND v2
+TL-WR941ND v4
+TL-MR3420 v1
+Tenda F9
+Totolink A702R
+MW325R
+MR70X
+DIR-612
+E900
+WRT54GL
+RouterOS Winbox vulnerable
+OpenWRT Custom Firmware
+DD-WRT Custom Firmware
+Viettel ZTE F600
+Viettel ZTE F601
+Viettel ZTE F670
+Viettel ZTE F680V2
+Viettel ZTE H188A
+Viettel ZTE H269N
+Viettel ZTE MC888
+Viettel FiberHome HG8145V5
+Viettel Huawei AX6
+FPT ZTE F600
+FPT ZTE F660
+FPT ZTE F680v2
+FPT ZTE H188A
+FPT ZTE H269N
+FPT ZTE MC888
+FPT FiberHome HG8145V5
+FPT Huawei HG8145X6
+FPT Huawei HG8245H
+FPT Huawei AX6
+FPT iGate GW1000
+FPT Play Box Router
+FPT Draytek Vigor 2925
+FPT Gpon F680R2
+VNPT Huawei AX6
+VNPT ZTE F600
+VNPT ZTE F660
+VNPT ZTE F680v2
+VNPT ZTE H188A
+VNPT FiberHome HG8145V5
+VNPT Huawei HG8145X6
+VNPT Draytek Vigor 2925
+VNPT Play Box Router
+VNPT S-Connect GW800
+Viettel Draytek Vigor 2925
+DrayTek Vigor 2926
+DrayTek Vigor 2927
+DrayTek Vigor 3910
+DrayTek Vigor 3912
+DrayTek Vigor 2865
+DrayTek Vigor 2866
+DrayTek Vigor 2915
+DrayTek Vigor 1000B
+DrayTek Vigor 2962
+DrayTek Vigor 2135
+DrayTek Vigor 2763
+DrayTek Vigor 2765
+DrayTek Vigor 2766
+Archer AX21
+DrayTek Vigor 2960
+DrayTek Vigor 300B
+DrayTek Vigor 2136ax
+ZTE F660
+ZTE F660W
+ZTE F670L
+ZTE H108L
+FiberHome HG6245D
+Archer C6 v3.2
+Vigor 2926
+Vigor 2927
+Vigor 2865
+Vigor 2866
+Vigor 3910
+Vigor 3912
+Vigor 2136ax
+ZXHN F660
+ZXHN F660W
+ZXHN H108L
+HG6245D
+AX21
+AX23
+DIR-615E
+DIR-645
+DIR-803
+DIR-823
+DIR-868L
+DIR-880L
+DIR-890L
+DSL-2640B
+DSL-2750B
+DSL-3782
+N301 v2.0
+AC10U v1.0
+AC18 v2.0
+F3 v2.0
+Halo H50G
+Halo H80X
+Halo H90X
+MR60X
+MR90X
+MR50G
+MR70X v2.0
+MW325R v2.0
+WRT54G v8.2
+WRT3200ACM
+EA2700
+EA6400
+EA8300
+HG8045Q
+HG8145X6
+AX3_Quadcore
+AX3_Pro
+B315s-936
+B535-232
+B628-265
+B818-263
+E5186
+E5577c
+Huawei AX6_Pro
+Huawei WiFi Mesh_3
+Huawei 5gCpe_Pro2
+An5506-04-F1A
+An5506-04-F4T
+G-240W-F
+Gpon_F680R
+Gpon_F7015
+S-Connect_GW800
+PlayBox_WiFi6
+iGate_GW040X
+iGate_GW800
+iGate_GW1000
+DrayTek_Vigor_2925
+DrayTek_Vigor_2960
+DrayTek_Vigor_300B
+FPT_Vigor_2925
+FPT_Vigor_2960
+FPT_Vigor_300B
+ZTE_H269N
+ZTE_H660
+ZTE_H768
